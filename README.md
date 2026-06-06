@@ -23,7 +23,7 @@ This bootcamp is taught at an upper-division undergraduate level. It aims to bri
 | **1** | Calculus | July 7--21 |
 | **2** | Linear Algebra and Multivariable Calculus | July 23--30 |
 | **3** | Combinatorics, Probability, and Statistics | Aug 4--13 |
-| **4** | Covariance Matrices, PCA, and Stochastic Calculus | Aug 18--27 |
+| **4** | Efficient frontier, PCA, and Stochastic Calculus | Aug 18--27 |
 
 ---
 
